@@ -2,6 +2,12 @@
 
 Matlab scripts to reproduce the results in [1].
 
+Usage
+-----
+In order to reproduce the numerical results of the paper, run the following scripts:
+* Example 1 - Heat equation --> P=1 in the data file and then main_Kron_2D.m
+* Example 2 - Transient Eriksson-Johnson problem --> P=2 in the data file and then main_Kron_2D.m
+* Example 3 - Allen-Cahn equation --> P=3 in the data file and then main_Kron_2D_phase.m
 
 References
 ----------
